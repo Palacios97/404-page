@@ -1,0 +1,39 @@
+ body {
+    background:black;
+     margin: 0;
+     padding: 0;
+     height: 100vh;
+     font-family: 'Diplomata SC', cursive;
+ }
+ img{
+     width: 85%;
+     text-align: center;
+     display: block;
+     margin: auto;
+ }
+ container {
+     height: 100vh;
+     display:flex;
+     flex-direction: column;
+     gap: 30px;
+     align-items: center;
+     justify-content: center;
+ }
+ h1{
+     color: rgb(150, 144, 144);
+     font-size: 30px;
+     padding: 20px; 
+     text-align: center;
+ }
+ button {
+     padding: 15px 30px ;
+     border-radius: 15px ;
+     background:rgb(27, 99, 170);
+     color: white;
+     display: block;
+     margin:auto
+     
+ }
+ a {
+     color:blanchedalmond;
+ }
